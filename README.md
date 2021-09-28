@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <a href="">https://ibb.co/G076f0F<img src="https://ibb.co/G076f0F/abuop.png""width="170" height="170"/>
+  <a href=""><img src="https://www.linkpicture.com/q/abuop.jpg""width="170" height="170"/>
   <p align="center">
 <a href="#"><img title="Abusir_v1" src="https://img.shields.io/badge/-Abusir-red?&style=for-the-badge"></a>
 </p>
@@ -137,7 +137,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
     
   [![ABU](https://github.com/Abuop.png?size=100)](https://github.com/Abuop)
 
-[aju](https://github.com/Abuop)  
+[ABU OP](https://github.com/Abuop)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
 
